@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://website-flashburn.com/</loc>
+  <lastmod>2025-10-18T01:12:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://website-flashburn.com/privacy-policy</loc>
+  <lastmod>2025-10-17T18:17:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://website-flashburn.com/terms-conditions</loc>
+  <lastmod>2025-10-17T18:16:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://website-flashburn.com/refund-policy</loc>
+  <lastmod>2025-10-17T18:18:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://website-flashburn.com/order-tracking</loc>
+  <lastmod>2025-10-17T18:17:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://website-flashburn.com/contact-us</loc>
+  <lastmod>2025-10-17T18:17:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
